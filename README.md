@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="To.Do Preview" src="https://media.discordapp.net/attachments/880027077884137492/884834327593119795/ezgif.com-gif-maker.gif" />
+    <img alt="To.Do Preview" src="https://cdn.discordapp.com/attachments/880027077884137492/897187696559149126/screencast-github.com-2021.10.11-15_18_34.gif" />
 </h1>
 
 
