@@ -1,5 +1,5 @@
 <h1 align="center">
-    💲 <a href="#"> Go restaurant </a>
+    🍗 <a href="#"> Go restaurant </a>
 </h1>
 
 <h1 align="center">
